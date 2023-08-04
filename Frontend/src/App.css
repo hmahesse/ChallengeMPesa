@@ -1,0 +1,8 @@
+.activo{
+    color:#fff;
+}
+
+html, body{
+    user-select: none !important;
+
+}
